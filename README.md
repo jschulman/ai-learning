@@ -20,12 +20,6 @@ Before running the scripts, make sure you have the following dependencies instal
 - `mistralai` library
 - `mistune` library
 
-You can install the required libraries using pip:
-
-```
-pip install openai anthropic mistralai mistune
-```
-
 ## Configuration
 
 Before running the scripts, make sure to configure the following variables:
@@ -56,7 +50,3 @@ It is recommended to use this script via Cron or another scheduler.
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-This README file provides an overview of your project, including the purpose of the scripts, prerequisites, configuration instructions, and usage guidelines. It also includes information about the required dependencies and how to install them using pip.
-
-Make sure to replace the placeholders for API keys, SMTP server details, and directory paths with your actual values.
