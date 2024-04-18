@@ -1,4 +1,3 @@
-```markdown
 # Daily Lesson Email Generator
 
 This project consists of two Python scripts that work together to generate and send daily lesson emails. 
